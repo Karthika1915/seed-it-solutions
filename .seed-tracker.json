@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-28T14:09:28.984Z",
+  "lastSynced": "2026-09-28T14:12:34.741Z",
   "problems": {
     "Q0.143": {
       "questionId": "Q0.143",
@@ -12,6 +12,17 @@
         "python3"
       ],
       "lastSolvedAt": "2026-09-28T14:09:28.984Z"
+    },
+    "Q0.144": {
+      "questionId": "Q0.144",
+      "title": "Basic_Level_0_Arrays_2",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-144-basic-level-0-arrays-2",
+      "languages": [
+        "python3"
+      ],
+      "lastSolvedAt": "2026-09-28T14:12:34.741Z"
     }
   }
 }
